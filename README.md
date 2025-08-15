@@ -1,6 +1,6 @@
 ### Hi  👋
 
-![](https://github.com/Raven9527/Raven9527/blob/output/github-user-contribution.svg)
+![](https://github.com/Raven9527/Raven9527/blob/main/dist/github-user-contribution.svg)
 
 <!--
 **Raven9527/Raven9527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
