@@ -1,5 +1,11 @@
 ### Hi  👋
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raven9527&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raven9527&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raven9527&theme=nord_bright)
+
 ![](https://github.com/Raven9527/Raven9527/blob/output/github-contribution-grid-snake.svg)
 
 <!--
